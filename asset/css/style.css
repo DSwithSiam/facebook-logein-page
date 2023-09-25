@@ -1,0 +1,69 @@
+.main-container{
+    display: flex;
+    height: 100%;
+    width: 100%;
+
+}
+.row{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+}
+.box1{
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+  
+
+}
+.fb-logo{
+    height: 80px;
+}
+.text1{
+    font-size: xx-large;
+}
+.box2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.logein-box{
+    background: white;
+    padding: 20px;
+    box-shadow:  1px 1px 1px, 1px 1px 1px, 1px 1px 8px , 1px 1px 8px #d6d6d6;
+    border-radius: 7px;
+    height: 55%;
+    width: 65%;
+    text-align: center;
+}
+.bx {
+    margin: 5px;
+    border-style: 0.5px solid;
+    border-radius: 5px;
+    border-color: #d6d6d6;
+    height: 50px;
+}
+.email{
+    height: 50px;
+    width: 100%;
+}
+.pass{
+    height: 50px;
+    width: 100%;
+}
+.logein{
+    background: rgb(16,117,249);
+    border-style: none;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: small;
+    color: white;
+}
+.create-ac{
+    background: rgb(59,163,38);
+    color: white;
+    font-size: small;
+    width: 60%;
+}
